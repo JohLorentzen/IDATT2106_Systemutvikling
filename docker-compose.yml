@@ -1,0 +1,10 @@
+services: 
+  backend: 
+    build: ./idatt2106-v24-backend 
+    ports:
+      - "8080:8080"
+  
+  frontend: 
+    build: ./idatt2106-v24-9-frontend 
+    ports:
+      - "5173:5173"

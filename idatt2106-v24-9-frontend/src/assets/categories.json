@@ -1,0 +1,198 @@
+[
+  {
+    "interest": "PERSONAL_FINANCE",
+    "interest_text": "Personlig økonomi",
+    "title": "Kontakt Banker",
+    "description": "Kontakt banken eller bankene dine og be om en nedbetalingsavtale. De vil i utgangspunktet ikke forhandle med deg dersom de ser at du har høy, fersk gjeld. Dersom du skal foreslå en løsning må du kunne vise til at du er begynt å gå i behandling.",
+    "source": "Siviløkonom Hallgeir Kvadsheim"
+  },
+  {
+    "interest": "PERSONAL_FINANCE",
+    "interest_text": "Personlig økonomi",
+    "title": "Beregn Årlig Sparing",
+    "description": "Finn ut hvor mye du potensielt kan spare i løpet av et år ved å justere forbruket ditt. Dette gjør sparing mer motiverende og håndgripelig.",
+    "source": "Silje Sandmæl"
+  },
+  {
+    "interest": "PERSONAL_FINANCE",
+    "interest_text": "Personlig økonomi",
+    "title": "Planlegg Matinnkjøp",
+    "description": "Lag handlelister, bruk handlenett, og unngå å handle på tom mage. Fokuser på kilopris og sjekk tilbudsdisken for å kutte ned på matutgiftene.",
+    "source": "Silje Sandmæl"
+  },
+  {
+    "interest": "PERSONAL_FINANCE",
+    "interest_text": "Personlig økonomi",
+    "title": "Forhandle Bedre Avtaler",
+    "description": "Sjekk muligheten for å forhandle ned renten på lånene dine og få bedre priser på forsikringer og strøm. Revurder dine abonnementer og streamingtjenester for å se om noe kan kuttes.",
+    "source": "Silje Sandmæl"
+  },
+  {
+    "interest": "PERSONAL_FINANCE",
+    "interest_text": "Personlig økonomi",
+    "title": "Bruk Bruktmarkedet",
+    "description": "Vurder å kjøpe brukte klær, møbler og sportsutstyr. Byttelån med venner og benytt deg av prisgarantier for å få varer billigere.",
+    "source": "Silje Sandmæl"
+  },
+  {
+    "interest": "DEBT",
+    "interest_text": "Gjeld",
+    "title": "Ikke la hele korthuset ramle",
+    "description": "Selv om du skylder flere millioner i forbrukslån må du passe på å betale de faste utgiftene dine, som husleie eller huslån, strøm og mat. Du må ikke risikere at du blir kastet ut av huset, eller mister strømmen.",
+    "source": "Siviløkonom Hallgeir Kvadsheim"
+  },
+  {
+    "interest": "PERSONAL_FINANCE",
+    "interest_text": "Personlig økonomi",
+    "title": "Lag et Budsjett",
+    "description": "Start med å spore inntektene og utgiftene dine. Et budsjett hjelper deg å se hvor pengene dine går og finne måter å spare på.",
+    "source": "Suze Orman"
+  },
+  {
+    "interest": "PERSONAL_FINANCE",
+    "interest_text": "Personlig økonomi",
+    "title": "Unngå Impulskjøp",
+    "description": "Vent med å kjøpe ting du ønsker deg, i minst 24 timer. Dette kan forhindre unødvendige utgifter og spare deg for mye penger over tid.",
+    "source": "Dave Ramsey"
+  },
+  {
+    "interest": "PERSONAL_FINANCE",
+    "interest_text": "Personlig økonomi",
+    "title": "Bruk Finansielle Verktøy",
+    "description": "Bruk apps og verktøy for å overvåke og planlegge dine finanser mer effektivt. Teknologi kan automatisere sparing og regnskap.",
+    "source": "Tim Ferriss"
+  },
+  {
+    "interest": "DEBT",
+    "interest_text": "Gjeld",
+    "title": "Prioriter Høyrente Gjeld",
+    "description": "Betal ned gjeld på lån med høy rente først, slik som kredittkortgjeld, for å redusere den totale rentekostnaden du betaler over tid.",
+    "source": "Ukjent"
+  },
+  {
+    "interest": "INVESTING",
+    "interest_text": "Investering",
+    "title": "Invester i Deg Selv",
+    "description": "Bruk penger på utdanning og opplæring for å øke inntektspotensialet ditt. Dette kan være kurs, sertifiseringer eller workshops.",
+    "source": "Warren Buffet"
+  },
+  {
+    "interest": "INVESTING",
+    "interest_text": "Investering",
+    "title": "Invester i Aksjer",
+    "description": "Kjøp aksjer i selskaper du tror vil vokse over tid. Dette kan gi deg en god avkastning på investeringen din.",
+    "source": "Warren Buffet"
+  },
+  {
+    "interest": "INVESTING",
+    "interest_text": "Investering",
+    "title": "Invester i Eiendom",
+    "description": "Kjøp eiendom for å leie ut eller selge videre. Dette kan gi deg en passiv inntekt og en god avkastning på investeringen din.",
+    "source": "Warren Buffet"
+  },
+  {
+    "interest": "INVESTING",
+    "interest_text": "Investering",
+    "title": "Invester i Fond",
+    "description": "Kjøp fond for å spre risikoen på investeringen din. Dette kan gi deg en god avkastning over tid.",
+    "source": "Warren Buffet"
+  },
+  {
+    "interest": "CRYPTOCURRENCY",
+    "interest_text": "Kryptovaluta",
+    "title": "Invester i Kryptovaluta",
+    "description": " Hvis du skal investere i krypto, da bør du forstå det fundamentale ved den valutaen du er interessert i, og hvilket problem den løser",
+    "source": "Ole Andre Torjussen i Bitcoins Norway"
+  },
+  {
+    "interest": "RETIREMENT",
+    "interest_text": "Pensjon",
+    "title": "Samle Pensjonsmidlene Dine",
+    "description": "I 2021 ble det mulig for alle i Norge som jobber i privat sektor å opprette en egen pensjonskonto. Dette lar deg samle pensjon fra nåværende og tidligere arbeidsgivere for full oversikt og kontroll over pensjonssparingen din.",
+    "source": "Investeringsbanken Nordnet"
+  },
+  {
+    "interest": "RETIREMENT",
+    "interest_text": "Pensjon",
+    "title": "Start Din Spareavtale",
+    "description": "Opprett en spareavtale hvor selv små månedlige beløp kan vokse over tid gjennom kraften av sammensatt rente. Bruk kalkulatoren for å se hvordan sparebeløpet ditt vil utvikle seg.",
+    "source": "Investeringsbanken Nordnet"
+  },
+  {
+    "interest": "RETIREMENT",
+    "interest_text": "Pensjon",
+    "title": "Velg Høyere Aksjeandel i Pensjonssparingen",
+    "description": "Velge en høyere aksjeandel i din langsiktige sparing kan gi en høyere forventet pensjon. Nordnet alderstilpasset pensjon justerer aksjeandelen automatisk ned ettersom du nærmer deg pensjonsalderen.",
+    "source": "Investeringsbanken Nordnet"
+  },
+  {
+    "interest": "BONDS",
+    "interest_text": "Obligasjoner",
+    "title": "Rettigheter og Begrensninger ved Obligasjonsinvesteringer",
+    "description": "Som eier av en obligasjon har du større rettigheter enn en aksjonær, men oppsiden er begrenset til å motta renten og få tilbakebetalt lånet.",
+    "source": "Svein Aage Aanes, leder for renteforvaltningen"
+  },
+  {
+    "interest": "BONDS",
+    "interest_text": "Obligasjoner",
+    "title": "Høyrenteobligasjoner",
+    "description": "Det er variasjon i avkastningsmulighetene i obligasjoner. De mest spenstige og potensielt lønnsomme kalles for høyrenteobligasjoner.",
+    "source": "Svein Aage Aanes, leder for renteforvaltningen"
+  },
+  {
+    "interest": "BONDS",
+    "interest_text": "Obligasjoner",
+    "title": "Risiko og Avkastning i Obligasjonsfond",
+    "description": "I obligasjonsfond er det ofte en tett sammenheng mellom avkastning og risiko. En veldig høy avkastning kan ofte indikere høy risiko.",
+    "source": "Svein Aage Aanes, leder for renteforvaltningen"
+  },
+  {
+    "interest": "CRYPTOCURRENCY",
+    "interest_text": "Kryptovaluta",
+    "title": "Definer Mål og Strategi",
+    "description": "Ha klare mål og en gjennomtenkt strategi før du investerer i aksjer eller kryptovaluta. Dette hjelper deg å unngå impulskjøp og reduserer risikoen for tap.",
+    "source": "investornett.no"
+  },
+  {
+    "interest": "CRYPTOCURRENCY",
+    "interest_text": "Kryptovaluta",
+    "title": "Forstå Kryptovaluta Før Investering",
+    "description": "Det viktigste du kan gjøre før du investerer i kryptovaluta, er å lære deg om teknologien og formålet med de ulike valutaene. Dette styrker din evne til å vurdere om en kryptovaluta passer for din portefølje.",
+    "source": "investornett.no"
+  },
+  {
+    "interest": "CRYPTOCURRENCY",
+    "interest_text": "Kryptovaluta",
+    "title": "Finn Pålitelige Kilder til Krypto-informasjon",
+    "description": "Sørg for å bruke troverdige kilder når du innhenter informasjon om kryptovaluta. Dette sikrer at du får nøyaktig og relevant informasjon for dine investeringsbeslutninger.",
+    "source": "investornett.no"
+  },
+  {
+    "interest": "CRYPTOCURRENCY",
+    "interest_text": "Kryptovaluta",
+    "title": "Vurder Risiko Nøye",
+    "description": "Kryptovaluta-investeringer har høy risiko på grunn av høy volatilitet. Forstå risikoen godt for å matche dine investeringer med din personlige risikoprofil.",
+    "source": "investornett.no"
+  },
+  {
+    "interest": "CRYPTOCURRENCY",
+    "interest_text": "Kryptovaluta",
+    "title": "Diversifiser Investeringene Dine",
+    "description": "Ikke sett alle pengene dine i én investering; diversifisering er nøkkelen til risikostyring, spesielt i så volatile markeder som kryptovaluta.",
+    "source": "investornett.no"
+  },
+  {
+    "interest": "CRYPTOCURRENCY",
+    "interest_text": "Kryptovaluta",
+    "title": "Invester Forsiktig",
+    "description": "Ikke invester mer enn du har råd til å tape. Dette er en grunnleggende regel i all investering for å sikre din finansielle sikkerhet.",
+    "source": "investornett.no"
+  },
+  {
+    "interest": "CRYPTOCURRENCY",
+    "interest_text": "Kryptovaluta",
+    "title": "Velg Riktig Handelsplattform",
+    "description": "Valget av handelsplattform kan påvirke dine investeringsbeslutninger betydelig. Plattformer som eToro og Firi anbefales for deres brukervennlighet og pålitelighet.",
+    "source": "investornett.no"
+  }
+]

@@ -1,0 +1,129 @@
+<svg width="100%" height="100%" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#BFE5ED" />
+
+    <svg id="visual" viewBox="0 0 960 540" width="1920" height="1080" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+        <path class="animated-wave-1" d="M0 408L22.8 394.7C45.7 381.3 91.3 354.7 137 344.2C182.7 333.7 228.3 339.3 274 352.3C319.7 365.3 365.3 385.7 411.2 380.3C457 375 503 344 548.8 345.8C594.7 347.7 640.3 382.3 686 395.8C731.7 409.3 777.3 401.7 823 392.2C868.7 382.7 914.3 371.3 937.2 365.7L960 360L960 541L937.2 541C914.3 541 868.7 541 823 541C777.3 541 731.7 541 686 541C640.3 541 594.7 541 548.8 541C503 541 457 541 411.2 541C365.3 541 319.7 541 274 541C228.3 541 182.7 541 137 541C91.3 541 45.7 541 22.8 541L0 541Z" fill="#f9786f"></path>
+        <path class="animated-wave-2" d="M0 452L22.8 433.5C45.7 415 91.3 378 137 371.8C182.7 365.7 228.3 390.3 274 408.5C319.7 426.7 365.3 438.3 411.2 444.8C457 451.3 503 452.7 548.8 447.3C594.7 442 640.3 430 686 409.5C731.7 389 777.3 360 823 355.2C868.7 350.3 914.3 369.7 937.2 379.3L960 389L960 541L937.2 541C914.3 541 868.7 541 823 541C777.3 541 731.7 541 686 541C640.3 541 594.7 541 548.8 541C503 541 457 541 411.2 541C365.3 541 319.7 541 274 541C228.3 541 182.7 541 137 541C91.3 541 45.7 541 22.8 541L0 541Z" fill="#fb847a"></path>
+        <path class="animated-wave-3" d="M0 384L22.8 396C45.7 408 91.3 432 137 445C182.7 458 228.3 460 274 456.2C319.7 452.3 365.3 442.7 411.2 434.2C457 425.7 503 418.3 548.8 423.7C594.7 429 640.3 447 686 454.8C731.7 462.7 777.3 460.3 823 456.2C868.7 452 914.3 446 937.2 443L960 440L960 541L937.2 541C914.3 541 868.7 541 823 541C777.3 541 731.7 541 686 541C640.3 541 594.7 541 548.8 541C503 541 457 541 411.2 541C365.3 541 319.7 541 274 541C228.3 541 182.7 541 137 541C91.3 541 45.7 541 22.8 541L0 541Z" fill="#fd8f86"></path>
+        <path class="animated-wave-4" d="M0 476L22.8 479C45.7 482 91.3 488 137 480.5C182.7 473 228.3 452 274 451C319.7 450 365.3 469 411.2 477.7C457 486.3 503 484.7 548.8 476.5C594.7 468.3 640.3 453.7 686 455.2C731.7 456.7 777.3 474.3 823 483.2C868.7 492 914.3 492 937.2 492L960 492L960 541L937.2 541C914.3 541 868.7 541 823 541C777.3 541 731.7 541 686 541C640.3 541 594.7 541 548.8 541C503 541 457 541 411.2 541C365.3 541 319.7 541 274 541C228.3 541 182.7 541 137 541C91.3 541 45.7 541 22.8 541L0 541Z" fill="#fe9a92"></path>
+        <path class="animated-wave-5" d="M0 496L22.8 494.7C45.7 493.3 91.3 490.7 137 488.5C182.7 486.3 228.3 484.7 274 480.7C319.7 476.7 365.3 470.3 411.2 476.7C457 483 503 502 548.8 508.7C594.7 515.3 640.3 509.7 686 510.3C731.7 511 777.3 518 823 518C868.7 518 914.3 511 937.2 507.5L960 504L960 541L937.2 541C914.3 541 868.7 541 823 541C777.3 541 731.7 541 686 541C640.3 541 594.7 541 548.8 541C503 541 457 541 411.2 541C365.3 541 319.7 541 274 541C228.3 541 182.7 541 137 541C91.3 541 45.7 541 22.8 541L0 541Z" fill="#ffa59e"></path>
+
+        <style>
+            .animated-wave-1 {
+            animation: wave-animation-1 15s infinite linear;
+            }
+
+            .animated-wave-2 {
+            animation: wave-animation-2 17s infinite linear;
+            }
+
+            .animated-wave-3 {
+            animation: wave-animation-3 14s infinite linear;
+            }
+
+            .animated-wave-4 {
+            animation: wave-animation-4 20s infinite linear;
+            }
+
+            .animated-wave-5 {
+            animation: wave-animation-5 22s infinite linear;
+            }
+
+            /* Oppdaterte nøkkelrammer for mer dramatiske bølgebevegelser */
+            @keyframes wave-animation-1 {
+            0%, 100% {
+            transform: translateY(0);
+            }
+            50% {
+            transform: translateY(-20px); /* Økte bevegelsesdybden for dramatikk */
+            }
+            }
+
+            @keyframes wave-animation-2 {
+            0%, 100% {
+            transform: translateY(0);
+            }
+            50% {
+            transform: translateY(25px); /* Økte bevegelsesdybden for dramatikk */
+            }
+            }
+
+            @keyframes wave-animation-3 {
+            0%, 100% {
+            transform: translateY(0);
+            }
+            50% {
+            transform: translateY(-20px); /* Økte bevegelsesdybden for dramatikk */
+            }
+            }
+
+            @keyframes wave-animation-4 {
+            0%, 100% {
+            transform: translateY(0);
+            }
+            50% {
+            transform: translateY(-15px); /* Økte bevegelsesdybden for dramatikk */
+            }
+            }
+
+            @keyframes wave-animation-5 {
+            0%, 100% {
+            transform: translateY(0);
+            }
+            50% {
+            transform: translateY(20px); /* Økte bevegelsesdybden for dramatikk */
+            }
+            }
+
+        </style>
+
+
+    </svg>
+
+    <svg width="100%" height="100%" viewBox="0 -250 1920 1080" xmlns="http://www.w3.org/2000/svg">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M0.181595 22.2671C-0.427002 20.8997 0.659341 19.2667 1.02056 18.7583C3.45406 15.333 6.66737 13.2666 10.6605 12.5591C17.5393 11.3403 23.5345 17.1308 25.0059 16.2539C26.4773 15.377 27.1982 9.35555 34.6286 5.48918C42.059 1.62281 51.1858 8.05928 53.3749 7.60797C55.5639 7.15665 63.9962 -1.43384 73.7747 0.208357C83.5533 1.85055 88.5809 9.13835 90.9127 12.4227C93.2445 15.707 94.52 19.9777 93.7986 21.6845C93.3177 22.8224 92.2915 23.4295 90.72 23.5058H2.62861C1.403 23.5916 0.587327 23.1787 0.181595 22.2671Z" fill="white">
+            <animateTransform attributeName="transform" attributeType="XML" type="translate" from="-15 0" to="1920 0" dur="90s" repeatCount="indefinite" />
+        </path>
+    </svg>
+
+    <svg width="100%" height="100%" viewBox="0 -300 1920 1080" xmlns="http://www.w3.org/2000/svg">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M0.181595 22.2671C-0.427002 20.8997 0.659341 19.2667 1.02056 18.7583C3.45406 15.333 6.66737 13.2666 10.6605 12.5591C17.5393 11.3403 23.5345 17.1308 25.0059 16.2539C26.4773 15.377 27.1982 9.35555 34.6286 5.48918C42.059 1.62281 51.1858 8.05928 53.3749 7.60797C55.5639 7.15665 63.9962 -1.43384 73.7747 0.208357C83.5533 1.85055 88.5809 9.13835 90.9127 12.4227C93.2445 15.707 94.52 19.9777 93.7986 21.6845C93.3177 22.8224 92.2915 23.4295 90.72 23.5058H2.62861C1.403 23.5916 0.587327 23.1787 0.181595 22.2671Z" fill="white">
+            <animateTransform attributeName="transform" attributeType="XML" type="translate" from="-15 0" to="1920 0" dur="100s" repeatCount="indefinite" />
+        </path>
+    </svg>
+
+    <svg width="100%" height="100%" viewBox="0 -500 1920 1080" xmlns="http://www.w3.org/2000/svg">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M0.181595 22.2671C-0.427002 20.8997 0.659341 19.2667 1.02056 18.7583C3.45406 15.333 6.66737 13.2666 10.6605 12.5591C17.5393 11.3403 23.5345 17.1308 25.0059 16.2539C26.4773 15.377 27.1982 9.35555 34.6286 5.48918C42.059 1.62281 51.1858 8.05928 53.3749 7.60797C55.5639 7.15665 63.9962 -1.43384 73.7747 0.208357C83.5533 1.85055 88.5809 9.13835 90.9127 12.4227C93.2445 15.707 94.52 19.9777 93.7986 21.6845C93.3177 22.8224 92.2915 23.4295 90.72 23.5058H2.62861C1.403 23.5916 0.587327 23.1787 0.181595 22.2671Z" fill="white">
+            <animateTransform attributeName="transform" attributeType="XML" type="translate" from="1920 0" to="-15 0" dur="100s" repeatCount="indefinite" />
+        </path>
+    </svg>
+
+    <svg width="100%" height="100%" viewBox="0 -400 1920 1080" xmlns="http://www.w3.org/2000/svg">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M0.181595 22.2671C-0.427002 20.8997 0.659341 19.2667 1.02056 18.7583C3.45406 15.333 6.66737 13.2666 10.6605 12.5591C17.5393 11.3403 23.5345 17.1308 25.0059 16.2539C26.4773 15.377 27.1982 9.35555 34.6286 5.48918C42.059 1.62281 51.1858 8.05928 53.3749 7.60797C55.5639 7.15665 63.9962 -1.43384 73.7747 0.208357C83.5533 1.85055 88.5809 9.13835 90.9127 12.4227C93.2445 15.707 94.52 19.9777 93.7986 21.6845C93.3177 22.8224 92.2915 23.4295 90.72 23.5058H2.62861C1.403 23.5916 0.587327 23.1787 0.181595 22.2671Z" fill="white">
+            <animateTransform attributeName="transform" attributeType="XML" type="translate" from="1920 0" to="-15 0" dur="90s" repeatCount="indefinite" />
+        </path>
+    </svg>
+
+    <svg width="100%" height="100%" viewBox="0 -200 1920 1080" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+            <filter id="filter0_b_360_260" x="-4" y="-4" width="195.969" height="82.3776" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+                <feGaussianBlur in="BackgroundImageFix" stdDeviation="2"/>
+                <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_360_260"/>
+                <feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_360_260" result="shape"/>
+            </filter>
+            <linearGradient id="paint0_linear_360_260" x1="119.841" y1="21.5295" x2="100.189" y2="55.2131" gradientUnits="userSpaceOnUse">
+                <stop stop-color="#FCB8B8"/>
+                <stop offset="1" stop-color="#91D3FF"/>
+            </linearGradient>
+        </defs>
+        <g filter="url(#filter0_b_360_260)">
+            <animateTransform attributeName="transform" attributeType="XML" type="translate" from="-20 0" to="1920 0" dur="30s" repeatCount="indefinite"/>
+            <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M90.7864 47.4914L0 74.3776V52.3344C0 52.3344 11.9319 61.2321 23.9329 57.5802C35.9339 53.9283 35.9339 44.647 47.3128 41.6403C57.7833 38.8735 70.7189 48.137 88.6982 46.1253L90.7864 47.4914Z" fill="white"></path>
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M101.418 2.96286L121.653 25.7504L144.627 19.0019L111.452 0L101.418 2.96286Z" fill="#B6C7D7"/>
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M73.7888 29.0921L88.1259 48.137L187.969 19.3866C187.969 19.3866 184.069 5.75255 165.419 11.148L89.7792 33.0229C89.7792 33.0229 84.6574 28.9399 80.5875 28.4466C76.5176 27.9532 73.7888 29.0921 73.7888 29.0921Z" fill="white"/>
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M124.952 33.5104L117.139 70.288L126.95 67.8241L151.515 25.7504L124.952 33.5104Z" fill="url(#paint0_linear_360_260)"/>
+        </g>
+    </svg>
+
+</svg>

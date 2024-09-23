@@ -1,0 +1,49 @@
+stages:
+  - format
+  - build
+  - test
+  - e2e
+
+image: node:20
+
+cache:
+  key: '${CI_COMMIT_REF_SLUG}'
+  paths:
+    - node_modules/
+    - .vite/
+
+before_script:
+  - npm install
+
+format:
+  stage: format
+  script:
+    - npm run format
+  allow_failure: true
+
+build:
+  stage: build
+  script:
+    - npm run build-only
+  artifacts:
+    paths:
+      - build/
+    expire_in: 1 week
+
+type_check:
+  stage: test
+  script:
+    - npm run type-check
+
+unit_tests:
+  stage: test
+  script:
+    - npm run test:unit
+
+e2e_tests:
+  stage: e2e
+  image: cypress/base:20.12.2
+  script:
+    - npm run test:e2e
+  dependencies:
+    - build

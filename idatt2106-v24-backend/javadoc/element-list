@@ -1,0 +1,11 @@
+org.savingapp
+org.savingapp.aspect
+org.savingapp.config
+org.savingapp.controller
+org.savingapp.dto
+org.savingapp.enums
+org.savingapp.exception
+org.savingapp.model
+org.savingapp.repository
+org.savingapp.service
+org.savingapp.util
